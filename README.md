@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Bhavarth here
 
 <!--
 **bhavarth-joshi/Bhavarth-Joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Bhavarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavarth-joshi&show_icons=true&include_all_commits=true)](https://github.com/bhavarth-joshi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavarth-joshi&layout=compact)](https://github.com/bhavarth-joshi/github-readme-stats)
