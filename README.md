@@ -4,10 +4,11 @@ Here I'll be building and experimenting with various kind of projects.
 
 Range of Domains I'll be covering: Website, Mobile App, and Machine Learning Systems.
 
-You can view my resume here [linkedin.com/bhavarth-joshi/](https://www.linkedin.com/in/bhavarth-joshi/)
+
 
 ✌️🖖
 <!--
+You can view my resume here [linkedin.com/bhavarth-joshi/](https://www.linkedin.com/in/bhavarth-joshi/)
 [![Gmail Badge](https://img.shields.io/badge/-bhavarthjoshi916@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bhavarthjoshi916@gmail.com)](mailto:bhavarthjoshi916@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-BhavarthJoshi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavarth-joshi/)](https://www.linkedin.com/in/bhavarth-joshi/)
 -->
 ## Some of my Github Stats
