@@ -1,6 +1,6 @@
 ## Hey there👋, I am Bhavarth
 
-Here I'll be building and experimenting with various kind of projects.
+Here I'll be building and experimenting with various kind of projects. You can check out resume [here](https://bhavarthjoshi.carrd.co/).
 
 Domains: Website, Mobile App, and Machine Learning Systems.
 
