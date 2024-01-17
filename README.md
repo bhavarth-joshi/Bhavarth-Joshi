@@ -1,6 +1,6 @@
 ## Hey there👋, I am Bhavarth
 
-Here I'll be building and experimenting with various kind of projects. You can check out my resume [here](https://bhavarthjoshi.carrd.co/).
+Here I'll be building and experimenting with various kind of projects.
 
 Domains: AI, Cloud and WebApps.
 
